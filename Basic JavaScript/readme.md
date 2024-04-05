@@ -49,3 +49,11 @@ In this course, you'll learn fundamental programming concepts in JavaScript. You
 - [Compound Assignment With Augmented Addition](./Compound%20Assignment%20With%20Augmented%20Addition.js)
 
 - [Compound Assignment With Augmented Subtraction](./Compound%20Assignment%20With%20Augmented%20Subtraction.js)
+
+- [Compound Assignment With Augmented Multiplication](./Compound%20Assignment%20With%20Augmented%20Multiplication.js)
+
+- [Compound Assignment With Augmented Division](./Compound%20Assignment%20With%20Augmented%20Division.js)
+
+- [Escaping Literal Quotes in Strings](./Escaping%20Literal%20Quotes%20in%20Strings.js)
+
+- [Quote Strings with Single Quotes](./Quote%20Strings%20with%20Single%20Quotes.js)
